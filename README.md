@@ -27,7 +27,7 @@ ChronoCore/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/ChronoCore.git
+git clone https://github.com/SnehaSinghwe/ChronoCore.git
 cd ChronoCore
 
 2. Create a virtual environment and install dependencies
