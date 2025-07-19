@@ -17,10 +17,15 @@ I wanted to show how an intelligent system can go beyond prediction — and beco
 
 ChronoCore/
 ├── app.py # Streamlit UI (AI co-pilot dashboard)
+
 ├── simulator.py # Real-time sensor simulator
+
 ├── data/
+
 │ ├── live_feed.json 
+
 │ └── history.json 
+
 └── README.md 
 
 ## How to Run It
