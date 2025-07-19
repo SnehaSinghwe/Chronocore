@@ -16,6 +16,7 @@ I wanted to show how an intelligent system can go beyond prediction — and beco
 ## Project Structure
 
 ChronoCore/
+
 ├── app.py # Streamlit UI (AI co-pilot dashboard)
 
 ├── simulator.py # Real-time sensor simulator
